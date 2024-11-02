@@ -1,0 +1,64 @@
+M:\שבבים ב תשפ''ה\C#\אילה רייכנברג\events\events\bin\Debug\net6.0\appsettings.Development.json
+M:\שבבים ב תשפ''ה\C#\אילה רייכנברג\events\events\bin\Debug\net6.0\appsettings.json
+M:\שבבים ב תשפ''ה\C#\אילה רייכנברג\events\events\bin\Debug\net6.0\events.exe
+M:\שבבים ב תשפ''ה\C#\אילה רייכנברג\events\events\bin\Debug\net6.0\events.deps.json
+M:\שבבים ב תשפ''ה\C#\אילה רייכנברג\events\events\bin\Debug\net6.0\events.runtimeconfig.json
+M:\שבבים ב תשפ''ה\C#\אילה רייכנברג\events\events\bin\Debug\net6.0\events.dll
+M:\שבבים ב תשפ''ה\C#\אילה רייכנברג\events\events\bin\Debug\net6.0\events.pdb
+M:\שבבים ב תשפ''ה\C#\אילה רייכנברג\events\events\bin\Debug\net6.0\Microsoft.OpenApi.dll
+M:\שבבים ב תשפ''ה\C#\אילה רייכנברג\events\events\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+M:\שבבים ב תשפ''ה\C#\אילה רייכנברג\events\events\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\שבבים ב תשפ''ה\C#\אילה רייכנברג\events\events\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\שבבים ב תשפ''ה\C#\אילה רייכנברג\events\events\obj\Debug\net6.0\events.csproj.AssemblyReference.cache
+M:\שבבים ב תשפ''ה\C#\אילה רייכנברג\events\events\obj\Debug\net6.0\events.GeneratedMSBuildEditorConfig.editorconfig
+M:\שבבים ב תשפ''ה\C#\אילה רייכנברג\events\events\obj\Debug\net6.0\events.AssemblyInfoInputs.cache
+M:\שבבים ב תשפ''ה\C#\אילה רייכנברג\events\events\obj\Debug\net6.0\events.AssemblyInfo.cs
+M:\שבבים ב תשפ''ה\C#\אילה רייכנברג\events\events\obj\Debug\net6.0\events.csproj.CoreCompileInputs.cache
+M:\שבבים ב תשפ''ה\C#\אילה רייכנברג\events\events\obj\Debug\net6.0\events.MvcApplicationPartsAssemblyInfo.cs
+M:\שבבים ב תשפ''ה\C#\אילה רייכנברג\events\events\obj\Debug\net6.0\events.MvcApplicationPartsAssemblyInfo.cache
+M:\שבבים ב תשפ''ה\C#\אילה רייכנברג\events\events\obj\Debug\net6.0\staticwebassets\msbuild.events.Microsoft.AspNetCore.StaticWebAssets.props
+M:\שבבים ב תשפ''ה\C#\אילה רייכנברג\events\events\obj\Debug\net6.0\staticwebassets\msbuild.build.events.props
+M:\שבבים ב תשפ''ה\C#\אילה רייכנברג\events\events\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.events.props
+M:\שבבים ב תשפ''ה\C#\אילה רייכנברג\events\events\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.events.props
+M:\שבבים ב תשפ''ה\C#\אילה רייכנברג\events\events\obj\Debug\net6.0\staticwebassets.pack.json
+M:\שבבים ב תשפ''ה\C#\אילה רייכנברג\events\events\obj\Debug\net6.0\staticwebassets.build.json
+M:\שבבים ב תשפ''ה\C#\אילה רייכנברג\events\events\obj\Debug\net6.0\staticwebassets.development.json
+M:\שבבים ב תשפ''ה\C#\אילה רייכנברג\events\events\obj\Debug\net6.0\scopedcss\bundle\events.styles.css
+M:\שבבים ב תשפ''ה\C#\אילה רייכנברג\events\events\obj\Debug\net6.0\events.csproj.CopyComplete
+M:\שבבים ב תשפ''ה\C#\אילה רייכנברג\events\events\obj\Debug\net6.0\events.dll
+M:\שבבים ב תשפ''ה\C#\אילה רייכנברג\events\events\obj\Debug\net6.0\refint\events.dll
+M:\שבבים ב תשפ''ה\C#\אילה רייכנברג\events\events\obj\Debug\net6.0\events.pdb
+M:\שבבים ב תשפ''ה\C#\אילה רייכנברג\events\events\obj\Debug\net6.0\events.genruntimeconfig.cache
+M:\שבבים ב תשפ''ה\C#\אילה רייכנברג\events\events\obj\Debug\net6.0\ref\events.dll
+C:\Users\123\Desktop\מחשבים\C#\תרגילים\events\events\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\123\Desktop\מחשבים\C#\תרגילים\events\events\bin\Debug\net6.0\appsettings.json
+C:\Users\123\Desktop\מחשבים\C#\תרגילים\events\events\bin\Debug\net6.0\events.exe
+C:\Users\123\Desktop\מחשבים\C#\תרגילים\events\events\bin\Debug\net6.0\events.deps.json
+C:\Users\123\Desktop\מחשבים\C#\תרגילים\events\events\bin\Debug\net6.0\events.runtimeconfig.json
+C:\Users\123\Desktop\מחשבים\C#\תרגילים\events\events\bin\Debug\net6.0\events.dll
+C:\Users\123\Desktop\מחשבים\C#\תרגילים\events\events\bin\Debug\net6.0\events.pdb
+C:\Users\123\Desktop\מחשבים\C#\תרגילים\events\events\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\123\Desktop\מחשבים\C#\תרגילים\events\events\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\123\Desktop\מחשבים\C#\תרגילים\events\events\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\123\Desktop\מחשבים\C#\תרגילים\events\events\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\123\Desktop\מחשבים\C#\תרגילים\events\events\obj\Debug\net6.0\events.csproj.AssemblyReference.cache
+C:\Users\123\Desktop\מחשבים\C#\תרגילים\events\events\obj\Debug\net6.0\events.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\Desktop\מחשבים\C#\תרגילים\events\events\obj\Debug\net6.0\events.AssemblyInfoInputs.cache
+C:\Users\123\Desktop\מחשבים\C#\תרגילים\events\events\obj\Debug\net6.0\events.AssemblyInfo.cs
+C:\Users\123\Desktop\מחשבים\C#\תרגילים\events\events\obj\Debug\net6.0\events.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\מחשבים\C#\תרגילים\events\events\obj\Debug\net6.0\events.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\123\Desktop\מחשבים\C#\תרגילים\events\events\obj\Debug\net6.0\events.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\123\Desktop\מחשבים\C#\תרגילים\events\events\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\123\Desktop\מחשבים\C#\תרגילים\events\events\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\123\Desktop\מחשבים\C#\תרגילים\events\events\obj\Debug\net6.0\staticwebassets\msbuild.events.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\123\Desktop\מחשבים\C#\תרגילים\events\events\obj\Debug\net6.0\staticwebassets\msbuild.build.events.props
+C:\Users\123\Desktop\מחשבים\C#\תרגילים\events\events\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.events.props
+C:\Users\123\Desktop\מחשבים\C#\תרגילים\events\events\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.events.props
+C:\Users\123\Desktop\מחשבים\C#\תרגילים\events\events\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\123\Desktop\מחשבים\C#\תרגילים\events\events\obj\Debug\net6.0\scopedcss\bundle\events.styles.css
+C:\Users\123\Desktop\מחשבים\C#\תרגילים\events\events\obj\Debug\net6.0\events.csproj.Up2Date
+C:\Users\123\Desktop\מחשבים\C#\תרגילים\events\events\obj\Debug\net6.0\events.dll
+C:\Users\123\Desktop\מחשבים\C#\תרגילים\events\events\obj\Debug\net6.0\refint\events.dll
+C:\Users\123\Desktop\מחשבים\C#\תרגילים\events\events\obj\Debug\net6.0\events.pdb
+C:\Users\123\Desktop\מחשבים\C#\תרגילים\events\events\obj\Debug\net6.0\events.genruntimeconfig.cache
+C:\Users\123\Desktop\מחשבים\C#\תרגילים\events\events\obj\Debug\net6.0\ref\events.dll
